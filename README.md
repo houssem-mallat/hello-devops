@@ -1,1 +1,3 @@
-# hello-devops
+# maven-project
+
+Simple Maven Project
